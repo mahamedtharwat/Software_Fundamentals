@@ -1,0 +1,37 @@
+Task 1: Association
+Objective: Implement a basic association between two classes in C++.
+
+Description:
+
+Create two classes: Author and Book.
+An Author can write multiple Books.
+Implement methods to:
+Add a book to an author's collection.
+Display all books written by an author.
+The association should be unidirectional, meaning the Author class will have a reference to the Book class,
+ but the Book class does not need to know about the Author class.
+
+
+
+
+
+Task 2: Aggregation
+Objective: Implement aggregation between two classes.
+
+Description:
+
+Create two classes: Library and Book.
+A Library contains multiple Books.
+Implement a method in the Library class that allows adding books to the library.
+Ensure that the Book objects can exist independently of the Library.
+
+
+Task 3: Composition
+Objective: Implement composition between two classes.
+
+Description:
+
+Create two classes: Car and Engine.
+A Car contains exactly one Engine.
+The Engine should be created and destroyed with the Car.
+Implement methods in the Car class to start and stop the engine.

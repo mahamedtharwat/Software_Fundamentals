@@ -1,0 +1,6 @@
+Student Data : 
+6 , dbdhty, 9
+Student Data : 
+1 , ali, 5
+Student Data : 
+2 , ahmed, 6

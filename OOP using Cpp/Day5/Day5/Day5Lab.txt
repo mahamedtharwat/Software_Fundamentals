@@ -1,0 +1,17 @@
+1- Complete Lecture Task To Achieve the following :
+
+C1==C2
+
+C1 != C2
+
+C1 > C2
+
+C1 < C2
+
+C1 >= C2
+
+C1 <=  C2
+
+
+
+2- Convert Function CalcAreas() to take Pinter To Pinter to GeoShap 

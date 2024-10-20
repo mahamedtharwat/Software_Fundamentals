@@ -1,0 +1,25 @@
+Task 1: Creating a Simple Inheritance Structure
+Objective:
+Create a base class called Animal with properties like name and age and methods like makeSound() and showDetails(). 
+Then,
+create a derived class Dog that inherits from Animal and adds an additional property breed and a method bark().
+
+Task 2: Demonstrating Constructor and Destructor Chaining
+Objective:
+Understand how constructors and destructors are called in a class hierarchy by creating a base class Vehicle
+ and a derived class Car. Observe the order in which constructors and destructors are executed.
+
+Task 3: Implementing Multilevel Inheritance
+Objective:
+Create a multilevel inheritance structure where a Device class is inherited by 
+a Phone class, which is further inherited by a Smartphone class. 
+Each class should have its own method that is unique to it.
+
+Instructions:
+
+Define a base class Device with a method void powerOn() that displays a message indicating that the device is powered on.
+Define a derived class Phone that inherits from Device and adds a method void makeCall() that displays a message indicating a call is being made.
+Define another derived class Smartphone that inherits from Phone and adds a method void browseInternet() that displays a message indicating internet browsing.
+In the main()
+function, create an object of Smartphone and call all three methods (powerOn(), makeCall(), browseInternet()).
+

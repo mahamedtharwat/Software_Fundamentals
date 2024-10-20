@@ -1,0 +1,36 @@
+1- Swap Function using pass by value , address , reference
+
+2- class complex and implement print function
+   that cover all those cases
+
+r = 3
+img = 4   ===> 3+4i
+
+r = 3
+img = - 4  ===> 3-4i
+
+r = 0
+img =  4  ===> 4i     
+
+r = 0
+img = -4  ===> -4i
+
+r = 4
+img =  0  ===> 4
+
+r = 0
+img =  0  ===> 
+
+3-Sum two complex numbers (member function)
+   c3 = c1.sum(c2)
+
+4-Subtract two complex numbers (stand alone)
+  c3 = subtract(c1 , c2)
+
+
+
+
+
+
+
+

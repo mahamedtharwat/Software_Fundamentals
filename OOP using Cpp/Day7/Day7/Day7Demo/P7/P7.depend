@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1724664176 source:c:\users\doaa\desktop\suumertrinningsoh\day7\p7\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

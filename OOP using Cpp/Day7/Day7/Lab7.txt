@@ -1,0 +1,25 @@
+Task 1: Age Validation Exception
+Objective: Create a custom exception class called InvalidAgeException that is thrown when a user enters an age below 0 or above 120.
+Instructions:
+Write a function validateAge(int age) that checks the validity of the age.
+If the age is invalid, throw InvalidAgeException with an appropriate error message.
+Handle the exception in the main function and print the error message.
+
+
+2. File Handling Tasks
+Task 1: Writing and Reading Student Records
+Objective: Write a program that writes a list of student names and grades to a file and then reads the data back from the file.
+Instructions:
+Create a text file named students.txt.
+Write the names and grades of at least 5 students to the file.
+Read the contents of the file and display them on the console.
+
+3. Task: Generic Pair Class
+Objective: Create a template class Pair that holds two values of potentially different data types.
+Instructions:
+Create a template class Pair with two template parameters T1 and T2.
+The class should have:
+A constructor to initialize the two values.
+getFirst() and getSecond() methods to return the first and second values.
+A method swap() to swap the values.
+Instantiate the Pair class in the main function with different data type combinations (e.g., int and double, string and char).
