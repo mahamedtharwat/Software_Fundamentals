@@ -1,0 +1,9 @@
+Day1 - LinkedList:
+
+        -void insertAfter(int targetValue, int value)	//Insert a node with the given value after the first node containing targetValue
+
+	-void insertBefore(int targetValue, int value)	//Insert a node with the given value before the first node containing targetValue.
+
+        -int getSize();		 			//Return the number of nodes currently in the list
+
+        -void reverse()					//Reverse the entire doubly linked list.		

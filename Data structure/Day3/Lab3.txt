@@ -1,0 +1,34 @@
+
+	1- Delete node if it is not root
+		- Node* GetParent(Node* pDelete)
+		- pdelete has no children
+		- pdelete has right child
+		- pdelete has left child
+		- pdelete has both right & left child
+				- parent  => pdelet->left
+				- right of maxRight of pdelete = pdelete->right
+	2- find the node with min & max value in binary search tree
+
+
+
+		--------notes for task 1--------------------
+		Node* GetParent(Node* pdelete){ }
+-----------------------------------------------------------------
+		delete another node == not root
+				- get parent
+
+				no right & no left
+					parent->left OR parent->right ==> NULL
+				no right
+					parent->left or parent-> right == > pdelete->lft
+				no left
+					parent->left or parent-> right == > pdelete->right
+				has right & left
+
+
+				- pdelete->left == NULL
+
+
+				- pdelete -> right && pdelete->left !!=NULL
+						maxright  = maxRight(pdelete->left)
+

@@ -1,0 +1,10 @@
+
+
+	- Lab 4:
+		1- Implement linear search on an array.
+		2- Implement function for Binary searech algorithm using Iterative Method (loop).
+		3- Implement function for BubbleSort for doubly linked list.(Swap data)
+			(extra Swap nodes)
+
+
+		

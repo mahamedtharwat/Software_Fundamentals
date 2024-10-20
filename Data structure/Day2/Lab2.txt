@@ -1,0 +1,6 @@
+Day2 - Stack & Queue
+1- Implement stack using single linked list
+
+2- Implement function which reverse a String Using a Stack, 
+	
+3- Implement Queue using array [enQueue, deQueue, Getfront, GetRear,display]
